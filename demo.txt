@@ -1,0 +1,1 @@
+the file is created to add multifle files all together with a single add command using . in between
